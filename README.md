@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Somnath Chatterjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align ="right" alt ="coding" width="400" src = "https://imgs.search.brave.com/_373oTlRav_oEW2qE8MmC0_CmzRv99of_QNGeH4yzLc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY293Ym95LWNv/bXB1dGVyLWNvZGlu/Zy13NjBwY2lrbDZp/ZWc1MjVuLmdpZg.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chatterjee2407&label=Profile%20views&color=0e75b6&style=flat" alt="chatterjee2407" /> </p>
 
 - 🌱 I’m currently learning **React JS,Data Structures and Algorithms**
