@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **somnathc276@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/folders/1lPpdXdR5anxK0Sevof_tjyVxcPk5B3vn
+- 📄 Know about my experiences https://drive.google.com/file/d/1ULvMw01CWTX7XH4vLCPEoBt6XxNIiSb8/view?usp=sharing
 
 - ⚡ Fun fact **I watch stand up comedy when I don't code and code when I am serious😂😂😂**
 
